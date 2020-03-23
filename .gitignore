@@ -1,3 +1,4 @@
 saved_models/
 logs/
 .idea/
+.ipnyb_checkpoints/
